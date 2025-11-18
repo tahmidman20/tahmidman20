@@ -1,6 +1,6 @@
 
-![Crafting smooth UI with React, JavaScript & Tailwind.](https://github.com/tahmidman20/tahmidman20/blob/main/Picsart_25-11-18_23-45-35-305.jpg)
-!(https://www.facebook.com/share/1Hv76sXgkC/)
+#### Crafting smooth UI with React, JavaScript & Tailwind.
+![Crafting smooth UI with React, JavaScript & Tailwind.](https://i.ibb.co.com/5WG5s0gZ/Picsart-25-11-18-23-45-35-305.jpg)
 # Hi there 👋, Hi 👋, I'm Tahmid Ahmed
 #### Crafting smooth UI with React, JavaScript & Tailwind.
 ## About me
